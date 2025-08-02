@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Your Clash Clan</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>⚔️ Welcome to Clash Legends ⚔️</h1>
+    <p>Official fan site of the mighty Clash clan!</p>
+  </header>
+
+  <section id="about">
+    <h2>About Our Clan</h2>
+    <p>We are a competitive clan focused on Clan Wars and CWL. Join our Discord to be part of the family!</p>
+  </section>
+
+  <section id="join">
+    <h2>Join Us</h2>
+    <p>Clan Tag: <strong>#ABC1234</strong><br />
+    Requirements: TH11+, active daily<br />
+    <a href="https://discord.gg/yourclan" target="_blank">Join our Discord</a>
+    </p>
+  </section>
+
+  <section id="gallery">
+    <h2>Gallery</h2>
+    <p>[Add your screenshots here later]</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Clash Legends Fan Site. Not affiliated with Supercell.</p>
+  </footer>
+</body>
+</html>
