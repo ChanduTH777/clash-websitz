@@ -1,2 +1,1 @@
-# clash-websitz
-i am chandu T H 
+i'm Chandu T H 
